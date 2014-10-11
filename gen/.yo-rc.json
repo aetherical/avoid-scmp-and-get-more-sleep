@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Avoid SCMP and Get More Sleep",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aetherical",
+    "githubRepository": "avoid-scmp-and-get-more-sleep"
+  }
+}
